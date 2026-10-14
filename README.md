@@ -52,16 +52,16 @@ A selection of digital products and platforms I'm designing and developing.
 <table>
 <tr>
 <td width="50%" valign="top">
-  <img src="assets/projects/e-bajaaj.svg" alt="E-BAJAAJ project cover" width="100%" />
-  <h3>🚕 E-BAJAAJ</h3>
+ <img src="./e-bajaaj.svg" alt="E-BAJAAJ project cover" width="100%" />
+  <h3> E-BAJAAJ</h3>
   <p>A smart mobility platform for connecting bajaj drivers and passengers through location-based ride requests.</p>
   <p><strong>Key features:</strong> Driver matching, live location, fare management, ride requests, and admin dashboard.</p>
   <p><code>React Native</code> <code>Next.js</code> <code>PostgreSQL</code> <code>PostGIS</code></p>
   <p><em>In development</em></p>
 </td>
 <td width="50%" valign="top">
-  <img src="assets/projects/fikircloud.svg" alt="FikirCloud project cover" width="100%" />
-  <h3>🏫 FikirCloud</h3>
+  <img src="./fikircloud.svg" alt="FikirCloud project cover" width="100%" />
+  <h3>FikirCloud</h3>
   <p>A multi-tenant school management SaaS designed to simplify academic and administrative workflows.</p>
   <p><strong>Key features:</strong> Attendance, exams, student records, school finance, reports, and role-based access.</p>
   <p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code></p>
@@ -70,16 +70,16 @@ A selection of digital products and platforms I'm designing and developing.
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="assets/projects/mustaqbal-clinic.svg" alt="Mustaqbal Eye Clinic System project cover" width="100%" />
-  <h3>🏥 Mustaqbal Eye Clinic System</h3>
+ <img src="./mustaqbal-clinic.svg" alt="Mustaqbal Eye Clinic cover" width="100%" />
+  <h3> Mustaqbal Eye Clinic System</h3>
   <p>A clinic operations platform covering patient services, optical shops, pharmacy, inventory, and branch workflows.</p>
   <p><strong>Key features:</strong> Patient registration, clinical workflow, prescriptions, sales, payments, and reporting.</p>
   <p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Prisma</code></p>
   <p><em>Project showcase</em></p>
 </td>
 <td width="50%" valign="top">
-  <img src="assets/projects/dawo-hub.svg" alt="DAWO HUB Pharmacy SaaS project cover" width="100%" />
-  <h3>💊 DAWO HUB</h3>
+  <img src="./dawo-hub.svg" alt="DAWO HUB Pharmacy cover" width="100%" />
+  <h3> DAWO HUB</h3>
   <p>A pharmacy management SaaS concept built to streamline medicine inventory, sales, and day-to-day pharmacy operations.</p>
   <p><strong>Planned features:</strong> Medicine catalog, stock tracking, sales, expiry alerts, and business reports.</p>
   <p><code>SaaS</code> <code>Pharmacy</code> <code>Inventory</code> <code>Analytics</code></p>
