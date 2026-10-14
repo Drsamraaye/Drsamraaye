@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Guiled Hussein 👋
+# Hi, I'm Guiled Hussein Guiled 👋
 
 ### Software Engineer · Full-Stack Developer · Digital Creator
 
 I build practical digital products that help businesses and communities solve real-world problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-drsamraaye-181717?style=for-the-badge&logo=github)](https://github.com/drsamraaye)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel)](https://github.com/drsamraaye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guiled-h-a18b8038a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel)](https://guiled.vercel.app)
 
 </div>
 
@@ -47,23 +47,48 @@ I build practical digital products that help businesses and communities solve re
 
 ## 🚀 Featured Projects
 
-### 🚕 E-BAJAAJ
-A ride-booking platform concept designed to modernize bajaj transportation, connecting passengers and drivers through location-aware ride requests.
+A selection of digital products and platforms I'm designing and developing.
 
-**Focus areas:** ride requests, driver matching, maps and location, fare management, and an admin dashboard.
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/projects/e-bajaaj.svg" alt="E-BAJAAJ project cover" width="100%" />
+  <h3>🚕 E-BAJAAJ</h3>
+  <p>A smart mobility platform for connecting bajaj drivers and passengers through location-based ride requests.</p>
+  <p><strong>Key features:</strong> Driver matching, live location, fare management, ride requests, and admin dashboard.</p>
+  <p><code>React Native</code> <code>Next.js</code> <code>PostgreSQL</code> <code>PostGIS</code></p>
+  <p><em>In development</em></p>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/projects/fikircloud.svg" alt="FikirCloud project cover" width="100%" />
+  <h3>🏫 FikirCloud</h3>
+  <p>A multi-tenant school management SaaS designed to simplify academic and administrative workflows.</p>
+  <p><strong>Key features:</strong> Attendance, exams, student records, school finance, reports, and role-based access.</p>
+  <p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code></p>
+  <p><em>Project showcase</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/projects/mustaqbal-clinic.svg" alt="Mustaqbal Eye Clinic System project cover" width="100%" />
+  <h3>🏥 Mustaqbal Eye Clinic System</h3>
+  <p>A clinic operations platform covering patient services, optical shops, pharmacy, inventory, and branch workflows.</p>
+  <p><strong>Key features:</strong> Patient registration, clinical workflow, prescriptions, sales, payments, and reporting.</p>
+  <p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+  <p><em>Project showcase</em></p>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/projects/dawo-hub.svg" alt="DAWO HUB Pharmacy SaaS project cover" width="100%" />
+  <h3>💊 DAWO HUB</h3>
+  <p>A pharmacy management SaaS concept built to streamline medicine inventory, sales, and day-to-day pharmacy operations.</p>
+  <p><strong>Planned features:</strong> Medicine catalog, stock tracking, sales, expiry alerts, and business reports.</p>
+  <p><code>SaaS</code> <code>Pharmacy</code> <code>Inventory</code> <code>Analytics</code></p>
+  <p><em>Concept / planning</em></p>
+</td>
+</tr>
+</table>
 
-### 🏫 FikirCloud
-A school management SaaS concept designed to help schools manage daily operations from one platform.
-
-**Focus areas:** student records, attendance, exams, results, finance, reporting, and role-based access.
-
-### 🏥 Mustaqbal Speciality Eye Clinic System
-A clinic operations system concept for managing patient flow and services across clinical, optical, pharmacy, and inventory workflows.
-
-**Focus areas:** patient registration, clinical workflow, pharmacy and optical sales, inventory, payments, and reports.
-
-> Project descriptions summarize the intended product scope. Add repository links here when the corresponding repositories are public.
-
+> The cover images are original project illustrations, not screenshots of completed applications. Project features describe product scope; availability and release status may vary.
 ## 📌 What I'm Working Toward
 
 - Building reliable, maintainable full-stack applications.
@@ -88,8 +113,8 @@ A clinic operations system concept for managing patient flow and services across
 I'm interested in collaborating on software products, SaaS platforms, AI-powered applications, and digital transformation projects.
 
 - **GitHub:** [@drsamraaye](https://github.com/drsamraaye)
-- **LinkedIn:** Add your exact LinkedIn profile URL
-- **Portfolio:** Add your live portfolio URL
+- **LinkedIn:** (https://www.linkedin.com/in/guiled-h-a18b8038a/)
+- **Portfolio:** (https://guiled.vercel.app)
 
 ---
 
