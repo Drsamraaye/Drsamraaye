@@ -1,46 +1,72 @@
-<h1 align="center">Hi 👋, I'm GUULEED XUSEEN GUULEED</h1>
-<h3 align="center">A passionate software Engineer & application developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drsamraaye&label=Profile%20views&color=0e75b6&style=flat" alt="drsamraaye" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drsamraaye" alt="drsamraaye" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/guiledhus" target="blank"><img src="https://img.shields.io/twitter/follow/guiledhus?logo=twitter&style=for-the-badge" alt="guiledhus" /></a> </p>
-
-- 🔭 I’m currently working on **E-BAJAAJ APPLICATION**
-
-- 🌱 I’m currently learning **React Native, Flutter, Swift, Python & AI Engineering**
-
-- 👯 I’m looking to collaborate on **SaaS Platforms & Business Management Systems**
-
-- 🤝 I’m looking for help with **AI Integration, Cloud Infrastructure & Scalability**
-
-- 👨‍💻 All of my projects are available at [https://guiled.vercel.app](https://guiled.vercel.app)
-
-- 📝 I regularly write articles on [Software Engineering & AI](Software Engineering & AI)
-
-- 💬 Ask me about **Next.js, React, TypeScript, PostgreSQL, Supabase & SaaS**
-
-- 📫 How to reach me **samraayeinaxuseen@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Nura/Downloads/CV%20(1).pdf](file:///C:/Users/Nura/Downloads/CV%20(1).pdf)
-
-- ⚡ Fun fact **I turn ideas into digital products that solve real problems.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/guiledhus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guiledhus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/guiled-h-a18b8038a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guiled-h-a18b8038a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/guiledpro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/guiledpro1" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/guiledpro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guiledpro/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@guiledpro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@guiledpro1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drsamraaye&show_icons=true&locale=en&layout=compact" alt="drsamraaye" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drsamraaye&show_icons=true&locale=en" alt="drsamraaye" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drsamraaye&" alt="drsamraaye" /></p>
+<div align="center">
+<img src="assets/guiled-profile-banner.png" alt="Guiled Husein Guled — Software Engineer and Full-Stack Developer" width="100%">
+<br/>
+👋 Hey there, I'm Guiled Husein Guled
+Software Engineer · Full-Stack Developer · Digital Creator
+I build practical digital products that solve real-world problems — from mobility apps to business management systems.
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)
+![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+</div>
+---
+🚀 About Me
+🔭 Building now: E-BAJAAJ, a digital mobility platform designed for the Jigjiga community.
+🏥 Business systems: Developing software solutions for clinic, pharmacy, optical, and inventory workflows.
+🧠 Exploring: AI-powered applications, mobile development, and scalable cloud systems.
+🤝 Open to: Collaborations on SaaS products, mobility technology, and useful digital services.
+💬 Ask me about: Next.js, React, TypeScript, PostgreSQL, Supabase, and SaaS architecture.
+🌍 Mission: Turn local challenges into accessible digital solutions.
+🧩 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚕 E-BAJAAJ</h3>
+      <p>A mobility platform concept designed to make finding and requesting bajaj rides easier in Jigjiga.</p>
+      <p><b>Focus:</b> React Native · Expo · Next.js · PostGIS</p>
+    </td>
+    <td width="50%">
+      <h3>🏥 Mustaqbal Clinic Systems</h3>
+      <p>Digital workflows for clinic operations, optical services, pharmacy, inventory, payments, and reporting.</p>
+      <p><b>Focus:</b> Web applications · Databases · Business automation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 Kobci Production</h3>
+      <p>Digital services focused on software, websites, branding, content production, and business growth.</p>
+      <p><b>Focus:</b> Software · Design · Video · Digital marketing</p>
+    </td>
+    <td width="50%">
+      <h3>🛠️ More projects</h3>
+      <p>Explore my GitHub repositories for experiments, tools, and ongoing development.</p>
+      <p><a href="https://github.com/guiledpro1?tab=repositories">Browse repositories →</a></p>
+    </td>
+  </tr>
+</table>
+🧰 Tech Stack
+<div align="center">
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend skills" />
+Backend, Database & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,prisma,git,github,vercel,docker" alt="Backend and tools" />
+Mobile & Creative
+<img src="https://skillicons.dev/icons?i=react,flutter,figma,ps,ai" alt="Mobile and creative tools" />
+</div>
+📊 GitHub Overview
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guiledpro1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiledpro1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=guiledpro1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+🌐 Connect With Me
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)
+</div>
+---
+<div align="center">
+“Build with purpose. Solve real problems. Keep learning.” ✨
+<img src="https://komarev.com/ghpvc/?username=guiledpro1&label=PROFILE%20VIEWS&color=2563eb&style=flat" alt="Profile views" />
+</div>
