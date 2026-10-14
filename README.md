@@ -1,72 +1,102 @@
 <div align="center">
-<img src="assets/guiled-profile-banner.png" alt="Guiled Husein Guled — Software Engineer and Full-Stack Developer" width="100%">
-<br/>
-👋 Hey there, I'm Guiled Husein Guled
-Software Engineer · Full-Stack Developer · Digital Creator
-I build practical digital products that solve real-world problems — from mobility apps to business management systems.
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)
-![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+# Hi, I'm Guiled Hussein 👋
+
+### Software Engineer · Full-Stack Developer · Digital Creator
+
+I build practical digital products that help businesses and communities solve real-world problems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-drsamraaye-181717?style=for-the-badge&logo=github)](https://github.com/drsamraaye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel)](https://github.com/drsamraaye)
+
 </div>
+
 ---
-🚀 About Me
-🔭 Building now: E-BAJAAJ, a digital mobility platform designed for the Jigjiga community.
-🏥 Business systems: Developing software solutions for clinic, pharmacy, optical, and inventory workflows.
-🧠 Exploring: AI-powered applications, mobile development, and scalable cloud systems.
-🤝 Open to: Collaborations on SaaS products, mobility technology, and useful digital services.
-💬 Ask me about: Next.js, React, TypeScript, PostgreSQL, Supabase, and SaaS architecture.
-🌍 Mission: Turn local challenges into accessible digital solutions.
-🧩 Featured Projects
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚕 E-BAJAAJ</h3>
-      <p>A mobility platform concept designed to make finding and requesting bajaj rides easier in Jigjiga.</p>
-      <p><b>Focus:</b> React Native · Expo · Next.js · PostGIS</p>
-    </td>
-    <td width="50%">
-      <h3>🏥 Mustaqbal Clinic Systems</h3>
-      <p>Digital workflows for clinic operations, optical services, pharmacy, inventory, payments, and reporting.</p>
-      <p><b>Focus:</b> Web applications · Databases · Business automation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💻 Kobci Production</h3>
-      <p>Digital services focused on software, websites, branding, content production, and business growth.</p>
-      <p><b>Focus:</b> Software · Design · Video · Digital marketing</p>
-    </td>
-    <td width="50%">
-      <h3>🛠️ More projects</h3>
-      <p>Explore my GitHub repositories for experiments, tools, and ongoing development.</p>
-      <p><a href="https://github.com/guiledpro1?tab=repositories">Browse repositories →</a></p>
-    </td>
-  </tr>
-</table>
-🧰 Tech Stack
+
+## 👨‍💻 About Me
+
+- 💻 Software engineer focused on building modern web applications and useful digital products.
+- 🧩 Interested in full-stack development, SaaS platforms, database design, and API development.
+- 🤖 Exploring AI-powered tools and ways to improve software development workflows.
+- ☁️ Learning and working with cloud deployment, application hosting, and production workflows.
+- 🎨 Also a graphic designer, video editor, and content creator.
+- 🚀 Building technology solutions for businesses and communities in the Somali Region and beyond.
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+
+## 🚀 Featured Projects
+
+### 🚕 E-BAJAAJ
+A ride-booking platform concept designed to modernize bajaj transportation, connecting passengers and drivers through location-aware ride requests.
+
+**Focus areas:** ride requests, driver matching, maps and location, fare management, and an admin dashboard.
+
+### 🏫 FikirCloud
+A school management SaaS concept designed to help schools manage daily operations from one platform.
+
+**Focus areas:** student records, attendance, exams, results, finance, reporting, and role-based access.
+
+### 🏥 Mustaqbal Speciality Eye Clinic System
+A clinic operations system concept for managing patient flow and services across clinical, optical, pharmacy, and inventory workflows.
+
+**Focus areas:** patient registration, clinical workflow, pharmacy and optical sales, inventory, payments, and reports.
+
+> Project descriptions summarize the intended product scope. Add repository links here when the corresponding repositories are public.
+
+## 📌 What I'm Working Toward
+
+- Building reliable, maintainable full-stack applications.
+- Improving database architecture and API design.
+- Learning more about cloud infrastructure and production deployment.
+- Integrating useful AI capabilities into real-world products.
+- Creating technology that solves local problems and can scale.
+
+## 📊 GitHub Overview
+
 <div align="center">
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend skills" />
-Backend, Database & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,prisma,git,github,vercel,docker" alt="Backend and tools" />
-Mobile & Creative
-<img src="https://skillicons.dev/icons?i=react,flutter,figma,ps,ai" alt="Mobile and creative tools" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drsamraaye&show_icons=true&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drsamraaye&layout=compact&hide_border=true)
+
 </div>
-📊 GitHub Overview
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guiledpro1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiledpro1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=guiledpro1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-🌐 Connect With Me
-<div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)
-</div>
+
+> If the stats cards do not load, your profile and repositories are still available directly from GitHub.
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on software products, SaaS platforms, AI-powered applications, and digital transformation projects.
+
+- **GitHub:** [@drsamraaye](https://github.com/drsamraaye)
+- **LinkedIn:** Add your exact LinkedIn profile URL
+- **Portfolio:** Add your live portfolio URL
+
 ---
+
 <div align="center">
-“Build with purpose. Solve real problems. Keep learning.” ✨
-<img src="https://komarev.com/ghpvc/?username=guiledpro1&label=PROFILE%20VIEWS&color=2563eb&style=flat" alt="Profile views" />
+
+**AI · Software Engineering · Cloud Solutions · Digital Transformation**
+
+*Building useful technology, one project at a time.* 🚀
+
 </div>
